@@ -1,0 +1,777 @@
+{
+  "apikey": "1f81cf98-5ece-41bd-92c0-6670a06037b8",
+  "data": [
+    {
+      "id": "4e77d53f-24a7-4b20-978c-ec505abeca96",
+      "name": "Nigeria vs Rwanda, 1st Match",
+      "matchType": "t20",
+      "status": "Nigeria won by 54 runs",
+      "venue": "Tafawa Balewa Square Cricket Oval, Lagos",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T09:00:00",
+      "teams": [
+        "Nigeria",
+        "Rwanda"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nigeria",
+          "shortname": "NGA",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        },
+        {
+          "name": "Rwanda",
+          "shortname": "RWN",
+          "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 127,
+          "w": 8,
+          "o": 20,
+          "inning": "Nigeria Inning 1"
+        },
+        {
+          "r": 73,
+          "w": 10,
+          "o": 18.1,
+          "inning": "Rwanda Inning 1"
+        }
+      ],
+      "series_id": "0f223098-3354-45ff-bbbf-550bba021908",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3246371b-e3e4-4aa5-88e4-77fa6e484777",
+      "name": "Australia vs Netherlands, 5th Warm-up game",
+      "matchType": "odi",
+      "status": "No result - 23 overs game due to rain",
+      "venue": "Greenfield International Stadium, Thiruvananthapuram",
+      "date": "2023-09-30",
+      "dateTimeGMT": "2023-09-30T08:30:00",
+      "teams": [
+        "Australia",
+        "Netherlands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 7,
+          "o": 23,
+          "inning": "Australia Inning 1"
+        },
+        {
+          "r": 84,
+          "w": 6,
+          "o": 14.2,
+          "inning": "Netherlands Inning 1"
+        }
+      ],
+      "series_id": "24c36b5a-0ae1-40cf-8cf5-dd0b9d1be6bd",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "8dac5387-d35d-4a3d-a7d6-527f65a715ba",
+      "name": "Bermuda vs Panama, 8th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "National Stadium, Hamilton",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T17:00:00",
+      "teams": [
+        "Bermuda",
+        "Panama"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bermuda",
+          "shortname": "BMUDA",
+          "img": "https://g.cricapi.com/iapi/587-637865062552981767.webp?w=48"
+        },
+        {
+          "name": "Panama",
+          "shortname": "PNM",
+          "img": "https://g.cricapi.com/iapi/639-637870990595820825.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "723080c3-8c60-4349-a3aa-7291289711e1",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1fc38969-0c60-4de0-857b-547ea3adc1dc",
+      "name": "Canada vs Cayman Islands, 7th Match",
+      "matchType": "t20",
+      "status": "Canada won by 166 runs",
+      "venue": "National Stadium, Hamilton",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T12:30:00",
+      "teams": [
+        "Canada",
+        "Cayman Islands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canada",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        },
+        {
+          "name": "Cayman Islands",
+          "shortname": "CAYM",
+          "img": "https://g.cricapi.com/iapi/593-637874526018520738.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 196,
+          "w": 5,
+          "o": 20,
+          "inning": "Canada Inning 1"
+        },
+        {
+          "r": 30,
+          "w": 10,
+          "o": 11.3,
+          "inning": "Cayman Islands Inning 1"
+        }
+      ],
+      "series_id": "723080c3-8c60-4349-a3aa-7291289711e1",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8d5fd173-d337-4434-80a8-70dd5cea5a51",
+      "name": "Bangladesh vs Malaysia, Quarter Final 4",
+      "matchType": "t20",
+      "status": "Bangladesh won by 2 runs",
+      "venue": "Pingfeng Campus Cricket Field, Hangzhou",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T06:00:00",
+      "teams": [
+        "Bangladesh",
+        "Malaysia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 5,
+          "o": 20,
+          "inning": "Bangladesh Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 8,
+          "o": 20,
+          "inning": "Malaysia Inning 1"
+        }
+      ],
+      "series_id": "b35bd96c-2d09-4f9e-91cf-7eab106541d9",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a18e985d-0e29-4d20-9ae4-543f85e93024",
+      "name": "Sri Lanka vs Afghanistan, Quarter Final 3",
+      "matchType": "t20",
+      "status": "Afghanistan won by 8 runs",
+      "venue": "Pingfeng Campus Cricket Field, Hangzhou",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T01:00:00",
+      "teams": [
+        "Sri Lanka",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 10,
+          "o": 18.3,
+          "inning": "Afghanistan Inning 1"
+        },
+        {
+          "r": 108,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Sri Lanka Inning 1"
+        }
+      ],
+      "series_id": "b35bd96c-2d09-4f9e-91cf-7eab106541d9",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f497d4ca-3d1c-4115-b4b0-b8d5b4bf9fe8",
+      "name": "Maldives vs Kuwait, 9th Match",
+      "matchType": "t20",
+      "status": "Kuwait won by 8 wkts",
+      "venue": "West End Park International Cricket Stadium, Doha",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T06:30:00",
+      "teams": [
+        "Maldives",
+        "Kuwait"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        },
+        {
+          "name": "Maldives",
+          "shortname": "MDV",
+          "img": "https://g.cricapi.com/iapi/626-637874526857495616.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 83,
+          "w": 6,
+          "o": 20,
+          "inning": "Maldives Inning 1"
+        },
+        {
+          "r": 84,
+          "w": 2,
+          "o": 7.5,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "38e94ec2-92b6-4e3f-8a16-961128f9aa17",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e455227e-bd27-46ca-8264-9606d5134f7a",
+      "name": "Eastern Storm vs South Western Districts, 18th Match",
+      "matchType": "odi",
+      "status": "Eastern Storm won by 43 runs",
+      "venue": "Willowmoore Park, Benoni",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T08:00:00",
+      "teams": [
+        "Eastern Storm",
+        "South Western Districts"
+      ],
+      "teamInfo": [
+        {
+          "name": "Eastern Storm",
+          "shortname": "ESTORM",
+          "img": "https://g.cricapi.com/iapi/22-637992689531725146.webp?w=48"
+        },
+        {
+          "name": "South Western Districts",
+          "shortname": "SWD",
+          "img": "https://g.cricapi.com/iapi/85-637993498736049006.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 228,
+          "w": 10,
+          "o": 40.3,
+          "inning": "Eastern Storm Inning 1"
+        },
+        {
+          "r": 185,
+          "w": 10,
+          "o": 45,
+          "inning": "South Western Districts Inning 1"
+        }
+      ],
+      "series_id": "0eea1b29-e921-4b00-8bdb-4b4621cc6c76",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e5eed361-506e-43f8-ad9a-f22924463c0c",
+      "name": "Mpumalanga Rhinos vs Northern Cape, 19th Match",
+      "matchType": "odi",
+      "status": "Northern Cape won by 6 wkts",
+      "venue": "Uplands College, White River, Mpumalanga",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T07:30:00",
+      "teams": [
+        "Mpumalanga Rhinos",
+        "Northern Cape"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mpumalanga Rhinos",
+          "shortname": "MPR",
+          "img": "https://g.cricapi.com/iapi/49-637991993271802283.webp?w=48"
+        },
+        {
+          "name": "Northern Cape",
+          "shortname": "NCAPE",
+          "img": "https://g.cricapi.com/iapi/61-637991981464151764.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 219,
+          "w": 9,
+          "o": 50,
+          "inning": "Mpumalanga Rhinos Inning 1"
+        },
+        {
+          "r": 222,
+          "w": 4,
+          "o": 39,
+          "inning": "Northern Cape Inning 1"
+        }
+      ],
+      "series_id": "0eea1b29-e921-4b00-8bdb-4b4621cc6c76",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b3edc46a-80b9-4bb2-b4ac-3f99249f7e66",
+      "name": "Western Province vs KwaZulu-Natal Inland, 11th Match",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Western Province Cricket Club, Cape Town",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T11:00:00",
+      "teams": [
+        "Western Province",
+        "KwaZulu-Natal Inland"
+      ],
+      "teamInfo": [
+        {
+          "name": "KwaZulu-Natal Inland",
+          "shortname": "KZ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Western Province",
+          "shortname": "WPR",
+          "img": "https://g.cricapi.com/iapi/104-637987555401464222.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "10fe8fdf-3890-46e7-8984-6a105341619b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "fa236028-badd-4e3c-ab8f-40662b26d628",
+      "name": "Dolphins vs Boland, 1st Match",
+      "matchType": "odi",
+      "status": "No result (due to rain)",
+      "venue": "Kingsmead, Durban",
+      "date": "2023-09-16",
+      "dateTimeGMT": "2023-09-16T11:00:00",
+      "teams": [
+        "Dolphins",
+        "Boland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Boland",
+          "shortname": "BL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Dolphins",
+          "shortname": "DOL",
+          "img": "https://g.cricapi.com/iapi/20-637993514627926036.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 32,
+          "w": 0,
+          "o": 6.3,
+          "inning": "Boland Inning 1"
+        }
+      ],
+      "series_id": "10fe8fdf-3890-46e7-8984-6a105341619b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2db942bd-fc49-4e07-8d48-a5179c083cfb",
+      "name": "Vanuatu Women vs Japan Women, 1st T20I",
+      "matchType": "t20",
+      "status": "Match starts at Aug 28, 02:30 GMT",
+      "venue": "Independence Park, Port Vila",
+      "date": "2023-08-28",
+      "dateTimeGMT": "2023-08-28T02:30:00",
+      "teams": [
+        "Vanuatu Women",
+        "Japan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Japan Women",
+          "shortname": "JPW",
+          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
+        },
+        {
+          "name": "Vanuatu Women",
+          "shortname": "VAN-W",
+          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 65,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Vanuatu Women Inning 1"
+        },
+        {
+          "r": 70,
+          "w": 2,
+          "o": 11.3,
+          "inning": "Japan Women Inning 1"
+        }
+      ],
+      "series_id": "aa86235a-97e3-4453-bd41-2d51a633f08d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "e40a8aaa-5ba0-4444-ae88-ae38a7f33c84",
+      "name": "Northern Superchargers Women vs Welsh Fire Women, Eliminator",
+      "status": "No result - due to rain",
+      "venue": "Kennington Oval, London",
+      "date": "2023-08-26",
+      "dateTimeGMT": "2023-08-26T13:30:00",
+      "teams": [
+        "Northern Superchargers Women",
+        "Welsh Fire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northern Superchargers Women",
+          "shortname": "NSW",
+          "img": "https://g.cricapi.com/iapi/2013-637967615022705017.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 104,
+          "w": 2,
+          "o": 75,
+          "inning": "Welsh Fire Women Inning 1"
+        }
+      ],
+      "series_id": "034204b0-5379-4856-88bb-dbdcd94fda3a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1877e5a5-d9fe-4fb7-9cd3-e5a4cb489f2d",
+      "name": "Western Australia vs Victoria, 3rd Match",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Western Australia trail by 227 runs",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T02:30:00",
+      "teams": [
+        "Western Australia",
+        "Victoria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Victoria",
+          "shortname": "VIC",
+          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
+        },
+        {
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 256,
+          "w": 10,
+          "o": 82.4,
+          "inning": "Victoria Inning 1"
+        },
+        {
+          "r": 29,
+          "w": 1,
+          "o": 7,
+          "inning": "Western Australia Inning 1"
+        }
+      ],
+      "series_id": "c9bd6244-b0de-4678-9254-9b70c90d55ff",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "3824b7df-865a-4324-9479-d238e9c12b9e",
+      "name": "New South Wales vs Queensland, 2nd Match",
+      "matchType": "test",
+      "status": "Day 1: Stumps - New South Wales opt to bowl",
+      "venue": "Sydney Showground Stadium, Sydney",
+      "date": "2023-10-04",
+      "dateTimeGMT": "2023-10-04T00:00:00",
+      "teams": [
+        "New South Wales",
+        "Queensland"
+      ],
+      "teamInfo": [
+        {
+          "name": "New South Wales",
+          "shortname": "NSW",
+          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
+        },
+        {
+          "name": "Queensland",
+          "shortname": "QL",
+          "img": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 7,
+          "o": 58,
+          "inning": "Queensland Inning 1"
+        }
+      ],
+      "series_id": "c9bd6244-b0de-4678-9254-9b70c90d55ff",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "00c36370-3e41-4362-948c-ab04947a320e",
+      "name": "South Australia vs Tasmania, 1st Match",
+      "matchType": "test",
+      "status": "Day 2: Stumps - South Australia trail by 27 runs",
+      "venue": "Karen Rolton Oval, Adelaide, South Australia",
+      "date": "2023-10-03",
+      "dateTimeGMT": "2023-10-03T00:00:00",
+      "teams": [
+        "South Australia",
+        "Tasmania"
+      ],
+      "teamInfo": [
+        {
+          "name": "South Australia",
+          "shortname": "SAUS",
+          "img": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=48"
+        },
+        {
+          "name": "Tasmania",
+          "shortname": "TAS",
+          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 307,
+          "w": 10,
+          "o": 63.4,
+          "inning": "South Australia Inning 1"
+        },
+        {
+          "r": 381,
+          "w": 10,
+          "o": 102.1,
+          "inning": "Tasmania Inning 1"
+        },
+        {
+          "r": 47,
+          "w": 3,
+          "o": 16,
+          "inning": "South Australia Inning 2"
+        }
+      ],
+      "series_id": "c9bd6244-b0de-4678-9254-9b70c90d55ff",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "682f767e-7471-4dd4-9241-1d549b26bddb",
+      "name": "Bangladesh vs New Zealand, 1st ODI",
+      "matchType": "odi",
+      "status": "No result (due to rain)",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "date": "2023-09-21",
+      "dateTimeGMT": "2023-09-21T06:00:00",
+      "teams": [
+        "Bangladesh",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 136,
+          "w": 5,
+          "o": 33.4,
+          "inning": "New Zealand Inning 1"
+        }
+      ],
+      "series_id": "6b67a726-2600-4c66-8b32-04042c0ccb4f",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "30ff1d3e-56c5-44cf-9c0e-a7d845ee356d",
+      "name": "England Women vs Sri Lanka Women, 2nd ODI",
+      "matchType": "odi",
+      "status": "No result (due to rain)",
+      "venue": "County Ground, Northampton",
+      "date": "2023-09-17",
+      "dateTimeGMT": "2023-09-17T10:00:00",
+      "teams": [
+        "England Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 106,
+          "w": 9,
+          "o": 30.5,
+          "inning": "Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "470b23ea-3810-49ff-9d3c-467f434a6bbf",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 1,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 8,
+    "offsetRows": 0,
+    "totalRows": 18,
+    "queryTime": 32.8279,
+    "s": 0,
+    "cache": 0
+  }
+}

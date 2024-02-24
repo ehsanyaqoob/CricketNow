@@ -1,0 +1,293 @@
+{
+    "apikey": "1f81cf98-5ece-41bd-92c0-6670a06037b8",
+    "data": [
+      {
+        "id": "55d45d16-2ea1-4f70-8cea-0e60e5180619",
+        "name": "Australia tour of England, 2024",
+        "startDate": "2024-09-11",
+        "endDate": "Sep 29",
+        "odi": 5,
+        "t20": 3,
+        "test": 0,
+        "squads": 0,
+        "matches": 8
+      },
+      {
+        "id": "a56429d3-a622-4da7-b048-35dd98db3bb8",
+        "name": "Sri Lanka tour of England, 2024",
+        "startDate": "2024-08-21",
+        "endDate": "Sep 10",
+        "odi": 0,
+        "t20": 0,
+        "test": 3,
+        "squads": 0,
+        "matches": 3
+      },
+      {
+        "id": "e544c40d-15fb-46d5-a434-0428ba6f3352",
+        "name": "ICC Mens T20 World Cup East Asia Pacific Qualifier 2023",
+        "startDate": "2024-07-21",
+        "endDate": "Jul 29",
+        "odi": 0,
+        "t20": 12,
+        "test": 0,
+        "squads": 4,
+        "matches": 12
+      },
+      {
+        "id": "313e778b-c306-4fd3-a5a8-cfd8687c724d",
+        "name": "ICC Mens T20 World Cup Europe Qualifier 2023",
+        "startDate": "2023-07-21",
+        "endDate": "Jul 28",
+        "odi": 0,
+        "t20": 21,
+        "test": 0,
+        "squads": 7,
+        "matches": 21
+      },
+      {
+        "id": "8416d6a5-c599-4d86-8f89-56383edc6c07",
+        "name": "West Indies tour of England, 2024",
+        "startDate": "2024-07-10",
+        "endDate": "Jul 30",
+        "odi": 0,
+        "t20": 0,
+        "test": 3,
+        "squads": 0,
+        "matches": 3
+      },
+      {
+        "id": "a43a8bb5-e4f3-40c2-bef1-ab7e8d66a4dd",
+        "name": "New Zealand Women tour of England, 2024",
+        "startDate": "2024-06-26",
+        "endDate": "Jul 17",
+        "odi": 3,
+        "t20": 5,
+        "test": 0,
+        "squads": 0,
+        "matches": 8
+      },
+      {
+        "id": "fbf1d44a-fe3d-4330-9487-c716b86767d7",
+        "name": "Zimbabwe tour of England, 2025",
+        "startDate": "2024-05-28",
+        "endDate": "May 31",
+        "odi": 0,
+        "t20": 0,
+        "test": 1,
+        "squads": 0,
+        "matches": 1
+      },
+      {
+        "id": "85cc5960-17cf-423c-8b1c-24c12525b1ef",
+        "name": "Pakistan tour of England, 2024",
+        "startDate": "2024-05-22",
+        "endDate": "May 30",
+        "odi": 0,
+        "t20": 4,
+        "test": 0,
+        "squads": 0,
+        "matches": 4
+      },
+      {
+        "id": "2a5e063b-a002-4ae7-859f-f86b83a34ca0",
+        "name": "Pakistan Women tour of England, 2024",
+        "startDate": "2024-05-11",
+        "endDate": "May 29",
+        "odi": 3,
+        "t20": 3,
+        "test": 0,
+        "squads": 0,
+        "matches": 6
+      },
+      {
+        "id": "fcdba53f-ab56-4b26-be78-ece70e0e25be",
+        "name": "England Womens tour of New Zealand, 2024",
+        "startDate": "2024-03-19",
+        "endDate": "Apr 07",
+        "odi": 3,
+        "t20": 5,
+        "test": 0,
+        "squads": 0,
+        "matches": 8
+      },
+      {
+        "id": "958e75fa-66fd-40d1-93ef-867c55f088db",
+        "name": "Australia tour of New Zealand, 2024",
+        "startDate": "2024-02-21",
+        "endDate": "Mar 24",
+        "odi": 0,
+        "t20": 3,
+        "test": 2,
+        "squads": 0,
+        "matches": 5
+      },
+      {
+        "id": "ed2827b2-5554-4fd0-bc82-76add67bea47",
+        "name": "South Africa tour of New Zealand, 2024",
+        "startDate": "2024-02-03",
+        "endDate": "Feb 17",
+        "odi": 0,
+        "t20": 0,
+        "test": 2,
+        "squads": 0,
+        "matches": 2
+      },
+      {
+        "id": "1edf73b5-7efa-4d78-ac7a-0fa04a9f75be",
+        "name": "South Africa Women tour of Australia, 2024",
+        "startDate": "2024-01-26",
+        "endDate": "Feb 18",
+        "odi": 3,
+        "t20": 3,
+        "test": 1,
+        "squads": 0,
+        "matches": 7
+      },
+      {
+        "id": "a5f5095a-72ed-455e-969f-30283ed18305",
+        "name": "England tour of India, 2024",
+        "startDate": "2024-01-25",
+        "endDate": "Mar 11",
+        "odi": 0,
+        "t20": 0,
+        "test": 5,
+        "squads": 0,
+        "matches": 5
+      },
+      {
+        "id": "9f0352a6-8e6e-4f01-a226-520d60ee2142",
+        "name": "West Indies tour of Australia, 2024",
+        "startDate": "2024-01-16",
+        "endDate": "Feb 13",
+        "odi": 3,
+        "t20": 3,
+        "test": 2,
+        "squads": 0,
+        "matches": 8
+      },
+      {
+        "id": "bcdc07ab-0e96-45f0-9547-f28d16222286",
+        "name": "Pakistan tour of New Zealand, 2024",
+        "startDate": "2024-01-12",
+        "endDate": "Jan 21",
+        "odi": 0,
+        "t20": 5,
+        "test": 0,
+        "squads": 0,
+        "matches": 5
+      },
+      {
+        "id": "0b9f3874-c50e-492e-899a-891ba323122f",
+        "name": "Afghanistan tour of India, 2024",
+        "startDate": "2024-01-11",
+        "endDate": "Jan 17",
+        "odi": 0,
+        "t20": 3,
+        "test": 0,
+        "squads": 0,
+        "matches": 3
+      },
+      {
+        "id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+        "name": "Ranji Trophy 2023-24",
+        "startDate": "2024-01-05",
+        "endDate": "Mar 14",
+        "odi": 0,
+        "t20": 0,
+        "test": 137,
+        "squads": 0,
+        "matches": 135
+      },
+      {
+        "id": "66e6e451-1189-476e-addd-0add0d824c14",
+        "name": "Bangladesh tour of New Zealand, 2023",
+        "startDate": "2023-12-16",
+        "endDate": "Dec 31",
+        "odi": 3,
+        "t20": 3,
+        "test": 0,
+        "squads": 0,
+        "matches": 6
+      },
+      {
+        "id": "f4a53baf-2280-4905-a3e1-43c85b2b3625",
+        "name": "Pakistan tour of Australia, 2023-24",
+        "startDate": "2023-12-05",
+        "endDate": "Jan 07",
+        "odi": 0,
+        "t20": 0,
+        "test": 3,
+        "squads": 0,
+        "matches": 4
+      },
+      {
+        "id": "187e9488-8f6c-4527-923d-962a4f47cff0",
+        "name": "India tour of South Africa, 2023-24",
+        "startDate": "2023-12-10",
+        "endDate": "Jan 07",
+        "odi": 3,
+        "t20": 3,
+        "test": 2,
+        "squads": 0,
+        "matches": 8
+      },
+      {
+        "id": "725a99ae-93a5-48ea-99a7-9ad10b860481",
+        "name": "Big Bash League 2023-24",
+        "startDate": "2023-12-07",
+        "endDate": "Jan 24",
+        "odi": 0,
+        "t20": 44,
+        "test": 0,
+        "squads": 0,
+        "matches": 44
+      },
+      {
+        "id": "d7e37a17-aa0d-4a21-917c-e2813392b3e4",
+        "name": "England tour of West Indies, 2023",
+        "startDate": "2023-12-03",
+        "endDate": "Dec 22",
+        "odi": 3,
+        "t20": 5,
+        "test": 0,
+        "squads": 0,
+        "matches": 8
+      },
+      {
+        "id": "fb9dbf1c-4b86-4262-ba8a-4ad69f81edec",
+        "name": "Pakistan Womens tour of New Zealand, 2023",
+        "startDate": "2023-12-03",
+        "endDate": "Dec 18",
+        "odi": 3,
+        "t20": 3,
+        "test": 0,
+        "squads": 0,
+        "matches": 6
+      },
+      {
+        "id": "401767b9-6cec-4a03-8776-2c2de85754ab",
+        "name": "The Ford Trophy 2023-24",
+        "startDate": "2023-11-24",
+        "endDate": "Feb 24",
+        "odi": 32,
+        "t20": 0,
+        "test": 0,
+        "squads": 0,
+        "matches": 32
+      }
+    ],
+    "status": "success",
+    "info": {
+      "hitsToday": 6,
+      "hitsUsed": 1,
+      "hitsLimit": 100,
+      "credits": 0,
+      "server": 15,
+      "offsetRows": 0,
+      "totalRows": 395,
+      "queryTime": 33.337,
+      "s": 0,
+      "cache": 0
+    }
+}

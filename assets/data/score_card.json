@@ -1,0 +1,593 @@
+{
+  "apikey": "c96ca9a0-1c09-4fb2-b24b-df740ae074e2",
+  "data": {
+    "id": "28004108-5cdd-43f7-82f3-f530bf8b2ce9",
+    "name": "Australia Women vs India Women, Semi-Final 1 (A1 v B2)",
+    "matchType": "t20",
+    "status": "Australia Women won by 5 runs",
+    "venue": "Newlands, Cape Town",
+    "date": "2023-02-23",
+    "dateTimeGMT": "2023-02-23T13:00:00",
+    "teams": [
+      "Australia Women",
+      "India Women"
+    ],
+    "teamInfo": [
+      {
+        "name": "Australia Women",
+        "shortname": "AUSW",
+        "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+      },
+      {
+        "name": "India Women",
+        "shortname": "INDW",
+        "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+      }
+    ],
+    "score": [
+      {
+        "r": 172,
+        "w": 4,
+        "o": 20,
+        "inning": "Australia Women Inning 1"
+      },
+      {
+        "r": 167,
+        "w": 8,
+        "o": 20,
+        "inning": "India Women Inning 1"
+      }
+    ],
+    "tossWinner": "Australia Women",
+    "tossChoice": "bat",
+    "matchWinner": "Australia Women",
+    "series_id": "f2f02a29-5800-4b95-8774-b170cdbfd308",
+    "scorecard": [
+      {
+        "batting": [
+          {
+            "batsman": {
+              "id": "981776fe-870a-491f-a2ef-837b2cfd3b90",
+              "name": "Alyssa Healy"
+            },
+            "dismissal": "stumped",
+            "bowler": {
+              "id": "5eac151a-f6fc-4a33-a26c-83e90e62aca4",
+              "name": "Radha Yadav"
+            },
+            "catcher": {
+              "id": "33efec43-6443-486a-81a9-700e7a94ebd6",
+              "name": "Richa Ghosh"
+            },
+            "dismissal-text": "st Richa Ghosh b Radha Yadav",
+            "r": 25,
+            "b": 26,
+            "4s": 3,
+            "6s": 0,
+            "sr": 96.15
+          },
+          {
+            "batsman": {
+              "id": "9bdb82f2-b7bd-4506-b18d-c26bd37d9b33",
+              "name": "Beth Mooney"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "eb73f36d-1a03-42c2-811e-0ab69207afef",
+              "name": "Shikha Pandey"
+            },
+            "catcher": {
+              "id": "faa616c2-68c3-4762-b8c3-943f01bda6de",
+              "name": "Shafali Verma"
+            },
+            "dismissal-text": "c Shafali Verma b Shikha Pandey",
+            "r": 54,
+            "b": 37,
+            "4s": 7,
+            "6s": 1,
+            "sr": 145.95
+          },
+          {
+            "batsman": {
+              "id": "c35d2f22-7ceb-4535-8c6f-a9ac56c883eb",
+              "name": "Meg Lanning"
+            },
+            "dismissal-text": "not out",
+            "r": 49,
+            "b": 34,
+            "4s": 4,
+            "6s": 2,
+            "sr": 144.12
+          },
+          {
+            "batsman": {
+              "id": "b046b0a2-2934-40d4-94f3-4fca4a52e8f2",
+              "name": "Ashleigh Gardner"
+            },
+            "dismissal": "bowled",
+            "bowler": {
+              "id": "e6d62ec5-d08d-40e0-ad7e-7172a5427861",
+              "name": "Deepti Sharma"
+            },
+            "dismissal-text": "b Deepti Sharma",
+            "r": 31,
+            "b": 18,
+            "4s": 5,
+            "6s": 0,
+            "sr": 172.22
+          },
+          {
+            "batsman": {
+              "id": "48f700b6-506c-43ec-9303-dfee62ab1b38",
+              "name": "Grace Harris"
+            },
+            "dismissal": "bowled",
+            "bowler": {
+              "id": "eb73f36d-1a03-42c2-811e-0ab69207afef",
+              "name": "Shikha Pandey"
+            },
+            "dismissal-text": "b Shikha Pandey",
+            "r": 7,
+            "b": 4,
+            "4s": 1,
+            "6s": 0,
+            "sr": 175
+          },
+          {
+            "batsman": {
+              "id": "84a5a21f-8f1f-4e79-a27f-5a77ee8856c1",
+              "name": "Ellyse Perry"
+            },
+            "dismissal-text": "not out",
+            "r": 2,
+            "b": 2,
+            "4s": 0,
+            "6s": 0,
+            "sr": 100
+          }
+        ],
+        "bowling": [
+          {
+            "bowler": {
+              "id": "70f2c01e-192a-42d1-b441-a2d312113f00",
+              "name": "Renuka Thakur Singh",
+              "altnames": [
+                "renuka thakur singh",
+                "renuka thakur",
+                "renuka singh"
+              ]
+            },
+            "o": 4,
+            "m": 0,
+            "r": 41,
+            "w": 0,
+            "nb": 0,
+            "wd": 0,
+            "eco": 10.2
+          },
+          {
+            "bowler": {
+              "id": "e6d62ec5-d08d-40e0-ad7e-7172a5427861",
+              "name": "Deepti Sharma"
+            },
+            "o": 4,
+            "m": 0,
+            "r": 30,
+            "w": 1,
+            "nb": 0,
+            "wd": 0,
+            "eco": 7.5
+          },
+          {
+            "bowler": {
+              "id": "eb73f36d-1a03-42c2-811e-0ab69207afef",
+              "name": "Shikha Pandey"
+            },
+            "o": 4,
+            "m": 0,
+            "r": 32,
+            "w": 2,
+            "nb": 0,
+            "wd": 1,
+            "eco": 8
+          },
+          {
+            "bowler": {
+              "id": "5eac151a-f6fc-4a33-a26c-83e90e62aca4",
+              "name": "Radha Yadav"
+            },
+            "o": 4,
+            "m": 0,
+            "r": 35,
+            "w": 1,
+            "nb": 0,
+            "wd": 0,
+            "eco": 8.8
+          },
+          {
+            "bowler": {
+              "id": "7e52261a-718a-40bf-ad3a-845a6465e3b7",
+              "name": "Sneh Rana"
+            },
+            "o": 4,
+            "m": 0,
+            "r": 33,
+            "w": 0,
+            "nb": 1,
+            "wd": 1,
+            "eco": 8.2
+          }
+        ],
+        "catching": [
+          {
+            "stumped": 1,
+            "runout": 0,
+            "catch": 0,
+            "catcher": {
+              "id": "33efec43-6443-486a-81a9-700e7a94ebd6",
+              "name": "Richa Ghosh"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "catcher": {
+              "id": "faa616c2-68c3-4762-b8c3-943f01bda6de",
+              "name": "Shafali Verma"
+            }
+          }
+        ],
+        "extras": {
+          "r": 4,
+          "b": 0,
+          "lb": 1,
+          "w": 2,
+          "nb": 1,
+          "p": 0
+        },
+        "totals": {
+          "R": 172,
+          "O": 20,
+          "W": 4,
+          "RR": 8.6
+        },
+        "inning": "Australia Women Inning 1"
+      },
+      {
+        "batting": [
+          {
+            "batsman": {
+              "id": "faa616c2-68c3-4762-b8c3-943f01bda6de",
+              "name": "Shafali Verma"
+            },
+            "dismissal": "lbw",
+            "bowler": {
+              "id": "294d21e2-ed23-4fe5-afe0-8a8bf56fe46a",
+              "name": "Megan Schutt"
+            },
+            "dismissal-text": "lbw b Megan Schutt",
+            "r": 9,
+            "b": 6,
+            "4s": 1,
+            "6s": 0,
+            "sr": 150
+          },
+          {
+            "batsman": {
+              "id": "9a9176d8-f3ef-45f5-b3a7-1c41f6ed6486",
+              "name": "Smriti Mandhana"
+            },
+            "dismissal": "lbw",
+            "bowler": {
+              "id": "b046b0a2-2934-40d4-94f3-4fca4a52e8f2",
+              "name": "Ashleigh Gardner"
+            },
+            "dismissal-text": "lbw b Gardner",
+            "r": 2,
+            "b": 5,
+            "4s": 0,
+            "6s": 0,
+            "sr": 40
+          },
+          {
+            "batsman": {
+              "id": "36dfd51c-d4d8-45a7-b673-b225c750c40c",
+              "name": "Yastika Bhatia"
+            },
+            "dismissal": "runout",
+            "bowler": {
+              "id": "48f700b6-506c-43ec-9303-dfee62ab1b38",
+              "name": "Grace Harris"
+            },
+            "catcher": {
+              "id": "981776fe-870a-491f-a2ef-837b2cfd3b90",
+              "name": "Alyssa Healy"
+            },
+            "dismissal-text": "run out (Grace Harris/Healy)",
+            "r": 4,
+            "b": 7,
+            "4s": 1,
+            "6s": 0,
+            "sr": 57.14
+          },
+          {
+            "batsman": {
+              "id": "9c78ae86-64d2-4cc5-815c-efcb82eb0784",
+              "name": "Jemimah Rodrigues"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "097f1919-e09c-4a2f-ae0f-6a707cc33b26",
+              "name": "Darcie Brown"
+            },
+            "catcher": {
+              "id": "981776fe-870a-491f-a2ef-837b2cfd3b90",
+              "name": "Alyssa Healy"
+            },
+            "dismissal-text": "c Healy b Darcie Brown",
+            "r": 43,
+            "b": 24,
+            "4s": 6,
+            "6s": 0,
+            "sr": 179.17
+          },
+          {
+            "batsman": {
+              "id": "1c5267ae-2021-44b0-b368-ff9365e05893",
+              "name": "Harmanpreet Kaur"
+            },
+            "dismissal": "runout",
+            "bowler": {
+              "id": "b046b0a2-2934-40d4-94f3-4fca4a52e8f2",
+              "name": "Ashleigh Gardner"
+            },
+            "catcher": {
+              "id": "981776fe-870a-491f-a2ef-837b2cfd3b90",
+              "name": "Alyssa Healy"
+            },
+            "dismissal-text": "run out (Gardner/Healy)",
+            "r": 52,
+            "b": 34,
+            "4s": 6,
+            "6s": 1,
+            "sr": 152.94
+          },
+          {
+            "batsman": {
+              "id": "33efec43-6443-486a-81a9-700e7a94ebd6",
+              "name": "Richa Ghosh"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "097f1919-e09c-4a2f-ae0f-6a707cc33b26",
+              "name": "Darcie Brown"
+            },
+            "catcher": {
+              "id": "7807e6fe-835f-4470-83f8-27a4e6dc6d8c",
+              "name": "Tahlia McGrath"
+            },
+            "dismissal-text": "c Tahlia McGrath b Darcie Brown",
+            "r": 14,
+            "b": 17,
+            "4s": 1,
+            "6s": 0,
+            "sr": 82.35
+          },
+          {
+            "batsman": {
+              "id": "e6d62ec5-d08d-40e0-ad7e-7172a5427861",
+              "name": "Deepti Sharma"
+            },
+            "dismissal-text": "not out",
+            "r": 20,
+            "b": 17,
+            "4s": 2,
+            "6s": 0,
+            "sr": 117.65
+          },
+          {
+            "batsman": {
+              "id": "7e52261a-718a-40bf-ad3a-845a6465e3b7",
+              "name": "Sneh Rana"
+            },
+            "dismissal": "bowled",
+            "bowler": {
+              "id": "e46b4127-e22d-4521-add2-a395fb0c25be",
+              "name": "Jess Jonassen"
+            },
+            "dismissal-text": "b Jonassen",
+            "r": 11,
+            "b": 10,
+            "4s": 1,
+            "6s": 0,
+            "sr": 110
+          },
+          {
+            "batsman": {
+              "id": "5eac151a-f6fc-4a33-a26c-83e90e62aca4",
+              "name": "Radha Yadav"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "b046b0a2-2934-40d4-94f3-4fca4a52e8f2",
+              "name": "Ashleigh Gardner"
+            },
+            "catcher": {
+              "id": "84a5a21f-8f1f-4e79-a27f-5a77ee8856c1",
+              "name": "Ellyse Perry"
+            },
+            "dismissal-text": "c Ellyse Perry b Gardner",
+            "r": 0,
+            "b": 1,
+            "4s": 0,
+            "6s": 0,
+            "sr": 0
+          },
+          {
+            "batsman": {
+              "id": "eb73f36d-1a03-42c2-811e-0ab69207afef",
+              "name": "Shikha Pandey"
+            },
+            "dismissal-text": "not out",
+            "r": 1,
+            "b": 1,
+            "4s": 0,
+            "6s": 0,
+            "sr": 100
+          }
+        ],
+        "bowling": [
+          {
+            "bowler": {
+              "id": "b046b0a2-2934-40d4-94f3-4fca4a52e8f2",
+              "name": "Ashleigh Gardner"
+            },
+            "o": 4,
+            "m": 0,
+            "r": 37,
+            "w": 2,
+            "nb": 0,
+            "wd": 0,
+            "eco": 9.2
+          },
+          {
+            "bowler": {
+              "id": "294d21e2-ed23-4fe5-afe0-8a8bf56fe46a",
+              "name": "Megan Schutt"
+            },
+            "o": 4,
+            "m": 0,
+            "r": 34,
+            "w": 1,
+            "nb": 0,
+            "wd": 4,
+            "eco": 8.5
+          },
+          {
+            "bowler": {
+              "id": "097f1919-e09c-4a2f-ae0f-6a707cc33b26",
+              "name": "Darcie Brown"
+            },
+            "o": 4,
+            "m": 0,
+            "r": 18,
+            "w": 2,
+            "nb": 0,
+            "wd": 3,
+            "eco": 4.5
+          },
+          {
+            "bowler": {
+              "id": "84a5a21f-8f1f-4e79-a27f-5a77ee8856c1",
+              "name": "Ellyse Perry"
+            },
+            "o": 1,
+            "m": 0,
+            "r": 14,
+            "w": 0,
+            "nb": 1,
+            "wd": 1,
+            "eco": 14
+          },
+          {
+            "bowler": {
+              "id": "e46b4127-e22d-4521-add2-a395fb0c25be",
+              "name": "Jess Jonassen"
+            },
+            "o": 3,
+            "m": 0,
+            "r": 22,
+            "w": 1,
+            "nb": 0,
+            "wd": 1,
+            "eco": 7.3
+          },
+          {
+            "bowler": {
+              "id": "4958aafe-b3dc-4f67-babd-1b4fe4b31030",
+              "name": "Georgia Wareham"
+            },
+            "o": 3,
+            "m": 0,
+            "r": 29,
+            "w": 0,
+            "nb": 0,
+            "wd": 0,
+            "eco": 9.7
+          },
+          {
+            "bowler": {
+              "id": "7807e6fe-835f-4470-83f8-27a4e6dc6d8c",
+              "name": "Tahlia McGrath"
+            },
+            "o": 1,
+            "m": 0,
+            "r": 13,
+            "w": 0,
+            "nb": 1,
+            "wd": 0,
+            "eco": 13
+          }
+        ],
+        "catching": [
+          {
+            "stumped": 0,
+            "runout": 2,
+            "catch": 1,
+            "catcher": {
+              "id": "981776fe-870a-491f-a2ef-837b2cfd3b90",
+              "name": "Alyssa Healy"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "catcher": {
+              "id": "7807e6fe-835f-4470-83f8-27a4e6dc6d8c",
+              "name": "Tahlia McGrath"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "catcher": {
+              "id": "84a5a21f-8f1f-4e79-a27f-5a77ee8856c1",
+              "name": "Ellyse Perry"
+            }
+          }
+        ],
+        "extras": {
+          "r": 11,
+          "b": 0,
+          "lb": 0,
+          "w": 9,
+          "nb": 2,
+          "p": 0
+        },
+        "totals": {
+          "R": 167,
+          "O": 20,
+          "W": 8,
+          "RR": 8.35
+        },
+        "inning": "India Women Inning 1"
+      }
+    ],
+    "matchStarted": true,
+    "matchEnded": true
+  },
+  "status": "success",
+  "info": {
+    "hitsToday": 37,
+    "hitsUsed": 10,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 11,
+    "queryTime": 16.8602,
+    "s": 0,
+    "cache": 0
+  }
+}

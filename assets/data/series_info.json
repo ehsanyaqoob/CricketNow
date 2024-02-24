@@ -1,0 +1,89 @@
+{
+  "apikey": "1f81cf98-5ece-41bd-92c0-6670a06037b8",
+  "data": {
+    "info": {
+      "id": "a97036e0-5e43-4ba7-aac0-12226678131f",
+      "name": "Serbia tour of Gibraltar 2023",
+      "startdate": "2023-10-05",
+      "enddate": "Oct 05",
+      "odi": 0,
+      "t20": 2,
+      "test": 0,
+      "squads": 2,
+      "matches": 2
+    },
+    "matchList": [
+      {
+        "id": "399c7941-610c-4aaf-bb45-7ad5406207f7",
+        "name": "Gibraltar vs Serbia, 1st T20I",
+        "matchType": "t20",
+        "status": "Gibraltar won by 7 wkts",
+        "venue": "Europa Sports Complex, Gibraltar",
+        "date": "2023-10-05",
+        "dateTimeGMT": "2023-10-05T08:00:00",
+        "teams": [
+          "Gibraltar",
+          "Serbia"
+        ],
+        "teamInfo": [
+          {
+            "name": "Gibraltar",
+            "shortname": "GIB",
+            "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
+          },
+          {
+            "name": "Serbia",
+            "shortname": "SRB",
+            "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "996c0c74-6235-4202-a1a5-031102ec10a0",
+        "name": "Gibraltar vs Serbia, 2nd T20I",
+        "matchType": "t20",
+        "status": "Gibraltar won by 7 wkts",
+        "venue": "Europa Sports Complex, Gibraltar",
+        "date": "2023-10-05",
+        "dateTimeGMT": "2023-10-05T12:00:00",
+        "teams": [
+          "Gibraltar",
+          "Serbia"
+        ],
+        "teamInfo": [
+          {
+            "name": "Gibraltar",
+            "shortname": "GIB",
+            "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
+          },
+          {
+            "name": "Serbia",
+            "shortname": "SRB",
+            "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      }
+    ]
+  },
+  "status": "success",
+  "info": {
+    "hitsToday": 7,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 10,
+    "queryTime": 21.1016,
+    "s": 0,
+    "cache": 0
+  }
+}

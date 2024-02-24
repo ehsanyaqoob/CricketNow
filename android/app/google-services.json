@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "530371990091",
+    "firebase_url": "https://cricnow-arf-102023-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cricnow-arf-102023",
+    "storage_bucket": "cricnow-arf-102023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530371990091:android:5f1b09833b74be6ae4f3ce",
+        "android_client_info": {
+          "package_name": "com.worldcup.cricket.matches.schedule.live.updates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_2hQ-m7SasdAO8XuTSil0rZj2Kl_aKA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
